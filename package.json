@@ -1,0 +1,23 @@
+{
+  "name": "@sourcegraph/tsconfig",
+  "version": "1.0.0",
+  "description": "Base tsconfig.json for Sourcegraph TypeScript projects",
+  "main": "tsconfig.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sourcegraph/tsconfig.git"
+  },
+  "keywords": [
+    "tsconfig",
+    "typescript",
+    "rules",
+    "compiler",
+    "options"
+  ],
+  "author": "Felix Becker <felix.b@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sourcegraph/tsconfig/issues"
+  },
+  "homepage": "https://github.com/sourcegraph/tsconfig#readme"
+}
