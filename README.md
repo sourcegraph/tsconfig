@@ -18,7 +18,7 @@ Then add this tsconfig.json:
 
 ```json
 {
-  "extends": "@sourcegraph/tsconfig"
+  "extends": "./node_modules/@sourcegraph/tsconfig/tsconfig.json"
 }
 ```
 
