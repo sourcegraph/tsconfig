@@ -1,6 +1,9 @@
 
 # Sourcegraph tsconfig
 
+[![Version](https://img.shields.io/npm/v/@sourcegraph/tsconfig.svg)](https://www.npmjs.com/package/@sourcegraph/tsconfig)
+[![Downloads](https://img.shields.io/npm/dt/@sourcegraph/tsconfig.svg)](https://www.npmjs.com/package/@sourcegraph/tsconfig)
+
 Base tsconfig.json for TypeScript projects at Sourcegraph.
 It only includes compiler options that make TypeScript more strict.
 It does not set any project-specific or environmental settings. 
