@@ -19,5 +19,12 @@
   "bugs": {
     "url": "https://github.com/sourcegraph/tsconfig/issues"
   },
-  "homepage": "https://github.com/sourcegraph/tsconfig#readme"
+  "homepage": "https://github.com/sourcegraph/tsconfig#readme",
+  "scripts": {
+    "prettier": "prettier tsconfig.json --list-different --write"
+  },
+  "devDependencies": {
+    "@sourcegraph/prettierrc": "^1.1.0",
+    "prettier": "^1.7.4"
+  }
 }
