@@ -3,6 +3,9 @@
   "version": "4.0.1",
   "description": "Base tsconfig.json for Sourcegraph TypeScript projects",
   "main": "tsconfig.json",
+  "files": [
+    "tsconfig.json"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sourcegraph/tsconfig.git"
