@@ -5,6 +5,7 @@
 
     "allowUnreachableCode": false,
     "allowUnusedLabels": false,
+    "alwaysStrict": true,
     "forceConsistentCasingInFileNames": true,
     "noImplicitAny": true,
     "noImplicitReturns": true,
